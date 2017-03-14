@@ -13,7 +13,7 @@ public class PrimitiveDataType {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-gene	rated method stub
 	 	int ny=25;
 	 	String name = "아이유",isMale="여자";
 	 	double kg = 44.3,height = 161.8;
