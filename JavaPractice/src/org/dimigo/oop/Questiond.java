@@ -9,12 +9,12 @@ public class Questiond {
 		for(int i=0;i<3; i++){
         System.out.println(que[i]);
         String answer = scanner.nextLine();
-		if(ans[i].equals(answer)){
+			if(ans[i].equals(answer)){
 			System.out.println("정답입니다!");
-		}
-		else{
+			}
+			else{
 			System.out.println("틀렸습니다!");
-		}
+			}
 		}
 		System.out.println("<<결과 출력>>");
 		System.out.println(que[0]+ans[0]+"입니다.");
