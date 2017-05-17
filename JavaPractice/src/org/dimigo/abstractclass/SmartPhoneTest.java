@@ -1,4 +1,4 @@
-package org.dimigo.inheritance;
+package org.dimigo.abstractclass;
 
 public class SmartPhoneTest {
 
@@ -11,7 +11,7 @@ public class SmartPhoneTest {
 			System.out.println(ss.toString());
 			ss.turnOn();
 			ss.pay();
-			ss.useSpecialFunction(ss);
+			ss.useSpecialFunction();
 			ss.turnoff();
 		}
 		
